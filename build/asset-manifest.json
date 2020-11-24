@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/manohar1249/hackathon-react-frontendstatic/css/main.6dea0f05.chunk.css",
+    "main.js": "/manohar1249/hackathon-react-frontendstatic/js/main.1bb876b0.chunk.js",
+    "main.js.map": "/manohar1249/hackathon-react-frontendstatic/js/main.1bb876b0.chunk.js.map",
+    "runtime-main.js": "/manohar1249/hackathon-react-frontendstatic/js/runtime-main.c2b15f5b.js",
+    "runtime-main.js.map": "/manohar1249/hackathon-react-frontendstatic/js/runtime-main.c2b15f5b.js.map",
+    "static/css/2.43b2b750.chunk.css": "/manohar1249/hackathon-react-frontendstatic/css/2.43b2b750.chunk.css",
+    "static/js/2.22e9e6bd.chunk.js": "/manohar1249/hackathon-react-frontendstatic/js/2.22e9e6bd.chunk.js",
+    "static/js/2.22e9e6bd.chunk.js.map": "/manohar1249/hackathon-react-frontendstatic/js/2.22e9e6bd.chunk.js.map",
+    "static/js/3.c75b1082.chunk.js": "/manohar1249/hackathon-react-frontendstatic/js/3.c75b1082.chunk.js",
+    "static/js/3.c75b1082.chunk.js.map": "/manohar1249/hackathon-react-frontendstatic/js/3.c75b1082.chunk.js.map",
+    "index.html": "/manohar1249/hackathon-react-frontendindex.html",
+    "static/css/2.43b2b750.chunk.css.map": "/manohar1249/hackathon-react-frontendstatic/css/2.43b2b750.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/manohar1249/hackathon-react-frontendstatic/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.22e9e6bd.chunk.js.LICENSE.txt": "/manohar1249/hackathon-react-frontendstatic/js/2.22e9e6bd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c2b15f5b.js",
+    "static/css/2.43b2b750.chunk.css",
+    "static/js/2.22e9e6bd.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.1bb876b0.chunk.js"
+  ]
+}
