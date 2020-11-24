@@ -1,11 +1,10 @@
 import { React, useState } from 'react';
-import ReactDOM from 'react-dom';
+
 import 'bootstrap/dist/css/bootstrap.css'
 import {
   BrowserRouter as Router,
   Route,
-  Link,
-  useParams,
+ 
   useHistory,
 
   Switch
@@ -277,7 +276,7 @@ const LoginPortel = () => {
 
   }
   return (
-    <div style={{ "marginTop": "20" + 'px' }}>
+    <div style={{ "marginTop": "20px" }}>
       <div className="row">
         <div className="col-6">
           <div class="form-group">
@@ -384,7 +383,7 @@ const Login = () => {
             role.map((ele, ind) => {
 
               return <button type="submit" className="btn btn-primary" onClick={() => {
-                if (ele == "admin") {
+                if (ele === "admin") {
                   push("/portel")
                 }
                 else {
